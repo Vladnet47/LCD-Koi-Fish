@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Description](#Description)
 - [Prerequisites](#Prerequisites)
-- [How to Install](#How-to-Install)
+- [How to Use](#How-to-Use)
     - [Wiring](#Wiring)
     - [Uploading the Code](#Uploading-the-Code)
     - [Controls](#Controls)
