@@ -26,7 +26,7 @@ Using an Arduino Liquid Crystal Display (LCD) and a joystick, the player is able
 
 See it for yourself in the video below!
 
-***Insert Video (TODO)***
+[![](https://img.youtube.com/vi/PHDyf8hoNdM/maxresdefault.jpg)](https://youtu.be/PHDyf8hoNdM)
 
 <br/><br/>
 
