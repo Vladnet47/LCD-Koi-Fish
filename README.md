@@ -1,4 +1,4 @@
-# LCD-Coy-Fish
+# LCD-Koi-Fish
 
 ## Table of Contents
 - [Description](#Description)
@@ -15,7 +15,7 @@
 ## Description
 An example of what can be done with my [LCD Animation Library][4] for Arduino.
 
-Using an Arduino Liquid Crystal Display (LCD) and a joystick, the player is able to swim around the screen like a coy fish.
+Using an Arduino Liquid Crystal Display (LCD) and a joystick, the player is able to swim around the screen like a Koi fish.
 
 **Some "features":**
 - You can variate speed with joystick position
@@ -52,9 +52,9 @@ After you have connected the LCD and joystick to your Arduino, you can upload an
 1. If you haven't already, [install the LCD Animation Library][7].
 2. Download the repository.
 ```bash
-git clone https://github.com/Vladnet47/LCD-Coy-Fish.git
+git clone https://github.com/Vladnet47/LCD-Koi-Fish.git
 ```
-3. Open ***src/CoyFish/CoyFish.ino*** using the Arduino IDE.
+3. Open ***src/KoiFish/KoiFish.ino*** using the Arduino IDE.
 4. Select the correct ***Board*** and ***Port*** under ***Tools***.
 5. Upload the sketch to your board.
 
